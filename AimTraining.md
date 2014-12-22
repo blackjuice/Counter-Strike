@@ -88,3 +88,8 @@ select OFFLINE WITH BOTS, WORKSHOP, ALL MAPS.
 The map should then be selectable in the list. 
 
 Click GO, select No Bots, and click GO. 
+
+
+##Some tips
+
+try 6.1 sensitivity with acceleration off.
